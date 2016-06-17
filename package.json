@@ -1,0 +1,19 @@
+{
+  "name": "iconsole",
+  "version": "1.0.0",
+  "description": "Build your own REPL with enchannel",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jdetle/iconsole.git"
+  },
+  "author": "John Detlefs",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jdetle/iconsole/issues"
+  },
+  "homepage": "https://github.com/jdetle/iconsole#readme"
+}

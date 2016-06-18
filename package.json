@@ -15,5 +15,11 @@
   "bugs": {
     "url": "https://github.com/jdetle/iconsole/issues"
   },
-  "homepage": "https://github.com/jdetle/iconsole#readme"
+  "homepage": "https://github.com/jdetle/iconsole#readme",
+  "dependencies": {
+    "@reactivex/rxjs": "^5.0.0-beta.2",
+    "enchannel-zmq-backend": "^1.0.1",
+    "spawnteract": "^2.0.0",
+    "uuid": "^2.0.2"
+  }
 }

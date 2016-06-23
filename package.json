@@ -21,5 +21,6 @@
     "enchannel-zmq-backend": "^1.0.1",
     "spawnteract": "^2.0.0",
     "uuid": "^2.0.2"
-  }
+  },
+  "devDependencies": {}
 }
